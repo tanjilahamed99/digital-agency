@@ -133,3 +133,40 @@ width: 105%;
     width: 70px;
     margin-bottom: 20px;
 }
+.blog{
+    width: 80%;
+    margin: auto;
+    background-color: gray;
+    padding: 10px;
+}
+.blog-tittle{
+    color: black;
+    text-align: center;
+    margin: 50px;
+    font-size: 55px;
+    font-weight: bold;
+}
+.blog-continer{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.blog-contant{
+    width: 220px;
+    height: 300px;
+    box-shadow: 4px 8px 4px gray;
+    border-radius: 5px;
+}
+.blog-contant img{
+    width: 100%;
+    border-radius: 5px;
+}
+.contant-tittle
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.contant-desc{
+
+}
